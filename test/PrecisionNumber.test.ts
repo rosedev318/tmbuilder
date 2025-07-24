@@ -1,4 +1,5 @@
 import { describe, it, expect, beforeAll } from "vitest";
+
 import { PrecisionNumber } from "../src/lib/PrecisionNumber";
 
 beforeAll(() => {
